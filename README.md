@@ -1,8 +1,7 @@
-# Cómo contribuir en Open Source
-
 ![Primera Slide](/public/images/first_slide.png?raw=true  "Slides.com")
 
-Consejos y buenas prácticas.
+Cómo contribuir, y por qué hacerlo.
+Buenas prácticas y consejos de un developer
 
 ## Publicada en:
 
