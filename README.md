@@ -14,6 +14,13 @@ Buenas prácticas y consejos de un developer
 
 ## Referencias
 
+-   [Contribuir al OSS: Guía de supervivencia](https://www.youtube.com/watch?v=-uP_zDerlyE) por  [@leosoto](https://twitter.com/leosoto)
+-   [The Definitive Guide](https://www.freecodecamp.org/news/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282/)  to Contributing to Open Source
+-   [FIRST TIMERS ONLY](https://www.firsttimersonly.com/)
+-   [Good First Issues](https://goodfirstissues.com/)
+-   [Google Summer of Code](https://summerofcode.withgoogle.com/archive/)
+-   [24 Pull Requests](https://24pullrequests.com/)
+
 ## Comienza a contribuir
 
 Puedes empezar por explorar los distintos proyectos Open Source en Github.
