@@ -14,12 +14,12 @@ Buenas prácticas y consejos de un developer
 
 ## Referencias
 
--   [Contribuir al OSS: Guía de supervivencia](https://www.youtube.com/watch?v=-uP_zDerlyE) por  [@leosoto](https://twitter.com/leosoto)
--   [The Definitive Guide](https://www.freecodecamp.org/news/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282/)  to Contributing to Open Source
--   [FIRST TIMERS ONLY](https://www.firsttimersonly.com/)
--   [Good First Issues](https://goodfirstissues.com/)
--   [Google Summer of Code](https://summerofcode.withgoogle.com/archive/)
--   [24 Pull Requests](https://24pullrequests.com/)
+-   [Contribuir al OSS: Guía de supervivencia](https://bit.ly/34oSJBa) por  [@leosoto](https://twitter.com/leosoto)
+-   [The Definitive Guide to Contributing to Open Source](https://bit.ly/3nfrul5)
+-   [FIRST TIMERS ONLY](https://bit.ly/3irfAkp)
+-   [Good First Issues](https://bit.ly/3itK5GC)
+-   [Google Summer of Code](https://bit.ly/30uhI4Y)
+-   [24 Pull Requests](https://bit.ly/3irfIjT)
 
 ## Comienza a contribuir
 
