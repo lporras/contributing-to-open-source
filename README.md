@@ -30,12 +30,14 @@ Si haces un filtro por todos los [issues abiertos con el label "hacktoberfest"](
 También puedes contribuir a cualquier proyecto de desarrolladores de la comunidad de [Noders Chile](https://bit.ly/36x6aBE)
 &nbsp;
 
-# Proyectos de Noders:
+## Proyectos de Noders:
 
  - **Hacktoberfest Dashboard** por Ender Bonnet [@enBonnet](https://github.com/enBonnet)
 
 Sitio web que lista todos sus contribuidores.
 Una excelente manera de aprender a realizar [tu primer Pull Request](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github)
+&nbsp;
+&nbsp;
 
 **Tecnologías utilizadas:**
 
@@ -66,9 +68,14 @@ Sitio Web que muestra tendencias del mundo de la tecnología de 5 paises de lati
 
 !Todos los datos se obtienen en tiempo real de ofertas laborales!
 
-**Disponible en:**
+&nbsp;
+&nbsp;
 
-[Ir al Sitio Web](https://tech-trend.org/)
+**Tecnologías utilizadas:**
+
+**Front:**  Bootstrap, React.js, Sass
+
+**Back:** GraphQL, Apollo Server, MongoDB, Redis
 
 **Repositorios:**
 
@@ -76,19 +83,17 @@ Frontend: [Chart-Tech-Trends](https://bit.ly/2GDm1U9)
 
 Backend: [GraphQL-Laboral](https://bit.ly/3cYR7lt)
 
-**Tecnologías utilizadas:**
+**Disponible en:**
 
-**Front:**  Bootstrap, React.js, Sass
-
-**Back:** GraphQL, Apollo Server, MongoDB, Redis
+[Ir al Sitio Web](https://tech-trend.org/)
 &nbsp;
-
 <hr/>
 
  - **Comunidades de Programación en Chile** por Luis Jury [@lcjury](https://github.com/lcjury)
 
 Sitio Web el cual lista las comunidades de programación en Chile
-
+&nbsp;
+&nbsp;
 **Tecnologías utilizadas:**
 
 Html, Tailwind CSS
@@ -108,6 +113,8 @@ Html, Tailwind CSS
 Angular es una plataforma de desarrollo creada en Google para construir aplicaciones web y móviles que usa TypeScript/JavaScript y otros lenguajes de programación.
 
 [Angular Hispano](https://twitter.com/AngularHispana), !La comunidad de Angular de habla Español necesita tu ayudar para mejorar la traducción en Español de la documentación del framework!
+&nbsp;
+&nbsp;
 
 **Tecnologías utilizadas:**
 
@@ -127,7 +134,8 @@ Node.js, Typescript
  - **Chaskiq** por Miguel Michelson [@michelson](https://github.com/michelson)
 
 Chaskiq es una alternativa Open Source a [Intercom](https://www.intercom.com), plataforma pensada para mejorar el marketing, soporte y ventas de tu proyecto.
-
+&nbsp;
+&nbsp;
 **Tecnologías utilizadas:**
 
 Ruby on Rails, React.js, PostgreSQL, Redis, WebSockets
@@ -146,7 +154,8 @@ Ruby on Rails, React.js, PostgreSQL, Redis, WebSockets
  - **Pegao** por Gonzalo Aragón [@zakokor](https://github.com/zakokor)
 
 Pegao es un espacio pensado para guardar y compartir links de sitios de forma categorizada.
-
+&nbsp;
+&nbsp;
 **Tecnologías utilizadas:**
 
 Django, React.js, PostgreSQL, Bulma CSS
