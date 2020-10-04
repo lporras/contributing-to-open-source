@@ -35,15 +35,18 @@ También puedes contribuir a cualquier proyecto de desarrolladores de la comunid
  - **Hacktoberfest Dashboard** por Ender Bonnet [@enBonnet](https://github.com/enBonnet)
 
 Sitio web que lista todos sus contribuidores.
-Una excelente manera de aprender a realizar [tu primer Pull Request](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github)!
+Una excelente manera de aprender a realizar [tu primer Pull Request](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github)
 
-Tecnologías utilizadas:
+**Tecnologías utilizadas:**
+
 Next.js, React.js
 
-Repositorio:
+**Repositorio:**
+
 [Hacktoberfest-dashboard](https://bit.ly/36zOKEr)
 
-Disponible en:
+**Disponible en:**
+
 [Ir al Sitio Web](https://hacktoberfest-dashboard.vercel.app/)
 &nbsp;
 
@@ -64,14 +67,19 @@ Sitio Web que muestra tendencias del mundo de la tecnología de 5 paises de lati
 !Todos los datos se obtienen en tiempo real de ofertas laborales!
 
 **Disponible en:**
+
 [Ir al Sitio Web](https://tech-trend.org/)
 
 **Repositorios:**
+
 Frontend: [Chart-Tech-Trends](https://bit.ly/2GDm1U9)
+
 Backend: [GraphQL-Laboral](https://bit.ly/3cYR7lt)
 
 **Tecnologías utilizadas:**
+
 **Front:**  Bootstrap, React.js, Sass
+
 **Back:** GraphQL, Apollo Server, MongoDB, Redis
 &nbsp;
 
@@ -82,12 +90,15 @@ Backend: [GraphQL-Laboral](https://bit.ly/3cYR7lt)
 Sitio Web el cual lista las comunidades de programación en Chile
 
 **Tecnologías utilizadas:**
+
 Html, Tailwind CSS
 
 **Repositorio:**
+
 [comunidades-programacion-chile](https://bit.ly/36v1VGJ)
 
 **Disponible en:**
+
 [Ir al Sitio Web](https://comunidades-programacion-chile.vercel.app/)
 &nbsp;
 <hr/>
@@ -99,12 +110,15 @@ Angular es una plataforma de desarrollo creada en Google para construir aplicaci
 [Angular Hispano](https://twitter.com/AngularHispana), !La comunidad de Angular de habla Español necesita tu ayudar para mejorar la traducción en Español de la documentación del framework!
 
 **Tecnologías utilizadas:**
+
 Node.js, Typescript
 
 **Repositorio:**
+
 [angular](https://bit.ly/33vxXAG)
 
 **Disponible en:**
+
 [Ir al Sitio Web](https://docs.angular.lat/)
 
 &nbsp;
@@ -115,12 +129,15 @@ Node.js, Typescript
 Chaskiq es una alternativa Open Source a [Intercom](https://www.intercom.com), plataforma pensada para mejorar el marketing, soporte y ventas de tu proyecto.
 
 **Tecnologías utilizadas:**
+
 Ruby on Rails, React.js, PostgreSQL, Redis, WebSockets
 
 **Repositorio:**
+
 [chaskiq](https://bit.ly/2GADKff)
 
 **Disponible en:**
+
 [Ir al Sitio Web](https://chaskiq.io/)
 
 &nbsp;
@@ -131,12 +148,15 @@ Ruby on Rails, React.js, PostgreSQL, Redis, WebSockets
 Pegao es un espacio pensado para guardar y compartir links de sitios de forma categorizada.
 
 **Tecnologías utilizadas:**
+
 Django, React.js, PostgreSQL, Bulma CSS
 
 **Repositorio:**
+
 [pegao](https://bit.ly/30wS13C)
 
 **Disponible en:**
+
 [Ir al Sitio Web](https://pegao.co/)
 
 ## Noders Hacktoberfest
