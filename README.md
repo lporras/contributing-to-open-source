@@ -30,7 +30,7 @@ Si haces un filtro por todos los [issues abiertos con el label "hacktoberfest"](
 También puedes contribuir a cualquier proyecto de desarrolladores de la comunidad de [Noders Chile](https://bit.ly/36x6aBE)
 &nbsp;
 
-#### Listado de proyectos por la comunidad:
+# Proyectos de Noders:
 
  - **Hacktoberfest Dashboard** por Ender Bonnet [@enBonnet](https://github.com/enBonnet)
 
