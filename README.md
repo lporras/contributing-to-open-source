@@ -27,7 +27,10 @@ Puedes empezar por explorar los distintos proyectos Open Source en Github.
 
 Si haces un filtro por todos los [issues abiertos con el label "hacktoberfest"](https://bit.ly/2SoZ5Lb) seguro encontrarás muchas formas de contribuir.
 
-Puedes también contribuir este listado de proyectos de desarrolladores de la comunidad de [Noders Chile](https://bit.ly/36x6aBE):
+También puedes contribuir a cualquier proyecto de desarrolladores de la comunidad de [Noders Chile](https://bit.ly/36x6aBE)
+&nbsp;
+
+#### Listado de proyectos por la comunidad:
 
  - **Hacktoberfest Dashboard** por Ender Bonnet [@enBonnet](https://github.com/enBonnet)
 
@@ -42,6 +45,9 @@ Repositorio:
 
 Disponible en:
 [Ir al Sitio Web](https://hacktoberfest-dashboard.vercel.app/)
+&nbsp;
+
+<hr/>
 
  - **Tech TREND** por Juan Mora [@raicerk](https://github.com/raicerk)
 
@@ -57,29 +63,34 @@ Sitio Web que muestra tendencias del mundo de la tecnología de 5 paises de lati
 
 !Todos los datos se obtienen en tiempo real de ofertas laborales!
 
-Disponible en:
+**Disponible en:**
 [Ir al Sitio Web](https://tech-trend.org/)
 
-Repositorios:
+**Repositorios:**
 Frontend: [Chart-Tech-Trends](https://bit.ly/2GDm1U9)
 Backend: [GraphQL-Laboral](https://bit.ly/3cYR7lt)
 
-Tecnologías utilizadas:
+**Tecnologías utilizadas:**
 **Front:**  Bootstrap, React.js, Sass
 **Back:** GraphQL, Apollo Server, MongoDB, Redis
+&nbsp;
+
+<hr/>
 
  - **Comunidades de Programación en Chile** por Luis Jury [@lcjury](https://github.com/lcjury)
 
 Sitio Web el cual lista las comunidades de programación en Chile
 
-Tecnologías utilizadas:
+**Tecnologías utilizadas:**
 Html, Tailwind CSS
 
-Repositorio:
+**Repositorio:**
 [comunidades-programacion-chile](https://bit.ly/36v1VGJ)
 
-Disponible en:
+**Disponible en:**
 [Ir al Sitio Web](https://comunidades-programacion-chile.vercel.app/)
+&nbsp;
+<hr/>
 
  - **Angular** forked por Angular Hispano [@angular-hispano](https://github.com/angular-hispano)
 
@@ -87,39 +98,45 @@ Angular es una plataforma de desarrollo creada en Google para construir aplicaci
 
 [Angular Hispano](https://twitter.com/AngularHispana), !La comunidad de Angular de habla Español necesita tu ayudar para mejorar la traducción en Español de la documentación del framework!
 
-Tecnologías utilizadas:
+**Tecnologías utilizadas:**
 Node.js, Typescript
 
-Repositorio:
+**Repositorio:**
 [angular](https://bit.ly/33vxXAG)
 
-Disponible en:
+**Disponible en:**
 [Ir al Sitio Web](https://docs.angular.lat/)
+
+&nbsp;
+<hr/>
 
  - **Chaskiq** por Miguel Michelson [@michelson](https://github.com/michelson)
 
 Chaskiq es una alternativa Open Source a [Intercom](https://www.intercom.com), plataforma pensada para mejorar el marketing, soporte y ventas de tu proyecto.
 
-Tecnologías utilizadas:
+**Tecnologías utilizadas:**
 Ruby on Rails, React.js, PostgreSQL, Redis, WebSockets
 
-Repositorio:
+**Repositorio:**
 [chaskiq](https://bit.ly/2GADKff)
 
-Disponible en:
+**Disponible en:**
 [Ir al Sitio Web](https://chaskiq.io/)
+
+&nbsp;
+<hr/>
 
  - **Pegao** por Gonzalo Aragón [@zakokor](https://github.com/zakokor)
 
 Pegao es un espacio pensado para guardar y compartir links de sitios de forma categorizada.
 
-Tecnologías utilizadas:
+**Tecnologías utilizadas:**
 Django, React.js, PostgreSQL, Bulma CSS
 
-Repositorio:
+**Repositorio:**
 [pegao](https://bit.ly/30wS13C)
 
-Disponible en:
+**Disponible en:**
 [Ir al Sitio Web](https://pegao.co/)
 
 ## Noders Hacktoberfest
