@@ -1,4 +1,4 @@
-![Primera Slide](/public/images/first_slide.png?raw=true  "Slides.com")
+![Primera Slide](/public/images/first_slide.jpg?raw=true  "Slides.com")
 
 Cómo contribuir, y por qué hacerlo.
 
