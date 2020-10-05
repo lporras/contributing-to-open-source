@@ -7,6 +7,7 @@ Buenas prácticas y consejos de un developer
 ## Publicada en:
 
 [Ver en Slides.com](https://bit.ly/36scIla)
+
 [Ver en Github](https://lporras.github.io/contributing-to-open-source/)
 
 
